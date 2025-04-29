@@ -38,7 +38,7 @@ O objetivo é praticar os pilares da POO (abstração, encapsulamento, herança 
 
 ## ✍️ Autor
 
-Feito com 💻 por [Gustavo] durante o Bootcamp da DIO.
+Feito com 💻 por - Gustavo Araújo - [@guucarlos](https://github.com/guucarlos) durante o Bootcamp da DIO.
 
 
 
