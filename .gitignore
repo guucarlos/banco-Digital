@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+.eclipse/
+.gitconfig
+.ssh/
+.zsh_history
+.zsh_sessions/
+.m2/
+.p2/
+.redhat/
+
